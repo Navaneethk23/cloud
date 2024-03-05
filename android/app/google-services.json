@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395865258517",
+    "project_id": "fir-cloud-a0aa3",
+    "storage_bucket": "fir-cloud-a0aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395865258517:android:df68c6eb6db57f6ad7ec1c",
+        "android_client_info": {
+          "package_name": "com.example.cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBprbCsxY1_eaAYIyebp_gCkolpJY0hDlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
